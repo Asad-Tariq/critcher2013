@@ -3,9 +3,6 @@ title: "Replication of Study \"How Quick Decisions Illuminate Moral Character\" 
 author: "Asad Tariq (astariq@ucsd.edu)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
-  html:
-    toc: true
-    toc_depth: 3
   pdf:
     toc: true
     toc_depth: 3
@@ -24,7 +21,7 @@ In order to replicate experiment 1 of this study, we will need a sample size of 
 A potential challenge will be to gather a large enough sample size of participants similar to the original study (the original study had 119 participants in experiment 1) which are either undergraduates or from a similar community to conduct the replication of the experiment. Another challenge would be to establish a reliable way to measure the quickness of judgement and the moral character of the actors involved in the scenario, such that the participants are consistent with their responses across different conditions. Yet another challenge would be the way in which to convey the notion of "quick" and "slow" as is intended in this particular study so that there is no consequential bias in the evaluations of assessed morality of the two actors.
 
 [GitHub Repository](https://github.com/Asad-Tariq/critcher2013)
-</br>
+
 [Link to original paper](https://github.com/Asad-Tariq/critcher2013/blob/main/original_paper/Critcher_et_al_2013.pdf)
 
 ## Methods
