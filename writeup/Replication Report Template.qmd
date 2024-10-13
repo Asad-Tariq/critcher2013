@@ -1,9 +1,12 @@
 ---
-title: "Replication of Study X by Sample & Sample (20xx, Psychological Science)"
-author: "Replication Author[s] (contact information)"
+title: "Replication of Study \"How Quick Decisions Illuminate Moral Character\" by Critcher et al. (2013, Social Psychological and Personality Science)"
+author: "Asad Tariq (astariq@ucsd.edu)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
   html:
+    toc: true
+    toc_depth: 3
+  pdf:
     toc: true
     toc_depth: 3
 ---
@@ -12,8 +15,17 @@ format:
 
 ## Introduction
 
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
+<!-- [No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.   -->
 
+This experiment focuses on the way the morality of person's character is ascertained in relation to the speed with which they make decisions and I chose to replicate it because I was interested in learning about how psychology, and the way the human brain behaves, can shape how people are perceived in a social setting based on their decisions even before they have begun to act upon them. My interests also lie in the domain of human social networks and I was curious about whether, within these dynamic networks, the people linked with each other have some similar form of judging each other's characteristics including morality before establishing links or not and therefore I opted for experiment 1 of this study.
+
+In order to replicate experiment 1 of this study, we will need a sample size of around 100-120 participants who will read up on a hypothetical scenario explaining to them two accompanying actions/outcomes: the first being a moral one and the other being an immoral one. The two actors involved in the scenario will differ by nature - one of them will be "quick" to act, while the other will be "slow". The participants will read the given scenario and answer some questions immediately afterwards. The questions will revolve around 4 different categories, namely: quickness, moral character evaluation, certainty and emotional impulsivity, which the participants will answer on a scale from 1-7.
+
+A potential challenge will be to gather a large enough sample size of participants similar to the original study (the original study had 119 participants in experiment 1) which are either undergraduates or from a similar community to conduct the replication of the experiment. Another challenge would be to establish a reliable way to measure the quickness of judgement and the moral character of the actors involved in the scenario, such that the participants are consistent with their responses across different conditions. Yet another challenge would be the way in which to convey the notion of "quick" and "slow" as is intended in this particular study so that there is no consequential bias in the evaluations of assessed morality of the two actors.
+
+[GitHub Repository](https://github.com/Asad-Tariq/critcher2013)
+</br>
+[Link to original paper](https://github.com/Asad-Tariq/critcher2013/blob/main/original_paper/Critcher_et_al_2013.pdf)
 
 ## Methods
 
